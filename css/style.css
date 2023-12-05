@@ -171,7 +171,8 @@ body{
         /* Quem somos */
 
   .qsms{
-    margin: 7em;
+    margin: 8em;
+    padding-top: 5em;
   }
 
 
@@ -207,11 +208,12 @@ body{
     margin: 10px;
     padding: 2em 20px 0px 10px;
     width: 20em;
-    height: 25em;
+    height: 350px;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
     text-align: center;
   }
-  
+
+ 
   h2 {
     color: #333;
     font-size: 1.5em;
@@ -250,10 +252,7 @@ body{
     height: 13em;
   }
 
-  .item-menu img:hover {
-    transform: scale(1.1); 
-  }
-
+  
         /* rodapé */
         .footer{
             background-color: #121213;
@@ -481,4 +480,6 @@ body{
         
         }
 
-
+.item-menu{
+    visibility: hidden;
+}
