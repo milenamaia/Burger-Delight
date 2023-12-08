@@ -162,10 +162,15 @@ body{
     .home p{
         font-size: 15px;
     }
-    .home-img{
+    .home-img {
+        width: 100%;
+    }
+    .img-somos{
         width: 100%;
     }
 }
+
+
 
         /* Quem somos */
 
