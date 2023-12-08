@@ -15,7 +15,7 @@ sr.reveal('.item-menu' , {duration: 2000});
 
 document.addEventListener('DOMContentLoaded', function() {
     const hamburgerBtn = document.querySelector('.navigation');
-    const menu = document.querySelector('.nav-menu');
+    const menu = document.querySelector('.nav-menu ');
 
     hamburgerBtn.addEventListener('click', function() {
         menu.classList.toggle('active');

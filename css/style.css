@@ -170,8 +170,8 @@ body{
         /* Quem somos */
 
   .qsms{
-    margin: 8em;
-    padding-top: 5em;
+    padding-left: 3em;
+    padding-top: 4em;
   }
 
   .qsms h2 {
@@ -187,8 +187,10 @@ body{
   }
 
   p{
+    text-align: justify;
     margin-bottom: 20px;
-    padding: 2px;
+    padding: 2px 3em 10px 7px;
+    line-height: 1.5;
   }
 
 /* Cardapio */
@@ -271,7 +273,7 @@ body{
             height:100%;
             float: left;
             font-size: 18px;
-            padding: 7px 3px 0px 8px;
+            padding: 4em;
         }
         
         .footer .left{ 
