@@ -165,11 +165,11 @@ body{
     .home-img {
         width: 100%;
     }
-    .img-somos{
-        width: 100%;
-    }
     .qsms{
-        width: 10em;
+        font-size: 15px;
+    }
+    .img-somos{
+        max-width: 17em;
     }
 }
 
