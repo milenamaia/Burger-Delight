@@ -113,6 +113,9 @@ body{
 }
 
 @media (max-width:459px) {
+    .home{
+        padding: 55px 2%;
+    }
     .qsms{
         font-size: 17px;
     }
