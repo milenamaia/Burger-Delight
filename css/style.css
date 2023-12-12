@@ -183,10 +183,15 @@ body{
     .home-img {
         width: 100%;
     }
+
+    .p{
+        text-align: justify;
+        margin-bottom: 20px;
+        padding: 3px 18px 0px 5px;
+        line-height: 1.5;
+      }
    
 }
-
-
 
         /* Quem somos */
 
@@ -207,10 +212,10 @@ body{
     margin-right: 20px; 
   }
 
-  p{
+ .qsms p{
     text-align: justify;
     margin-bottom: 20px;
-    padding: 3px 0px 0px 5px;
+    padding: 3px 18px 0px 5px;
     line-height: 1.5;
   }
 
@@ -260,6 +265,7 @@ body{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    margin: 4em 10em 2em 10em;
   }
 
   .burguer img {
