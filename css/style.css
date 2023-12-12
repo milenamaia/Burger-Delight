@@ -20,6 +20,7 @@ body{
 }
 
 .navigation{
+    z-index: 1000;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -146,6 +147,7 @@ body{
         transform: translateY(-8px) rotate(-45deg);
     }
     .nav-menu{
+        z-index: 1000;
         position: fixed;
         right: -100%;
         top: 70px;
