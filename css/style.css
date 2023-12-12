@@ -265,7 +265,6 @@ body{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    margin: 4em 10em 2em 10em;
   }
 
   .burguer img {
