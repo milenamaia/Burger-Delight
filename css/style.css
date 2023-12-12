@@ -186,9 +186,10 @@ body{
     }
     .home p{
         font-size: 15px;
+        margin-bottom: 1rem;
     }
     .home-img {
-        width: 100%;
+        width: 50%;
     }
 
     .p{
