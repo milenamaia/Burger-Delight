@@ -109,7 +109,7 @@ body{
     background: #fc4c35;
 }
 .home-img img{
-    width: 90%;
+    width: 100%;
 }
 
 @media (max-width:459px) {
@@ -127,6 +127,12 @@ body{
     }
     .item-menu{
         max-width: 100em;
+    }
+    .home-img img{
+        width: 75%;
+    }
+    .home-text p {
+        margin-bottom: 1em;
     }
 }
 
@@ -166,11 +172,10 @@ body{
     }
     /*main*/
     .home{
-        padding: 100px 2%;
+        padding: 38px 2%;
         flex-direction: column;
         text-align: center;
         overflow: hidden;
-        gap: 5rem;
     }
     .home .text-h4{
         font-size: 15px;
