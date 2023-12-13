@@ -133,9 +133,10 @@ body{
     }
     .home-img img{
         width: 100%;
+        margin-bottom: 16px;
     }
     .home-text p {
-        margin-bottom: 1em;
+        
     }
 }
 
@@ -175,7 +176,7 @@ body{
     }
     /*main*/
     .home{
-        padding: 38px 2%;
+        padding: 29px 2%;
         flex-direction: column;
         text-align: center;
         overflow: hidden;
@@ -191,10 +192,7 @@ body{
         font-size: 15px;
         margin-bottom: 1rem;
     }
-    .home-img {
-        width: 50%;
-    }
-
+    
     .p{
         text-align: justify;
         margin-bottom: 20px;
